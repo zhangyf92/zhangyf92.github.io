@@ -9,6 +9,9 @@ body:after {
 body:after {
   clear: both;
 }
+.ds-recent-comments li.ds-comment:first-child {
+  border-top: none !important;
+}
 html,
 body,
 div,
@@ -356,7 +359,7 @@ body {
   z-index: -1;
 }
 #header-title {
-  text-align: center;
+  text-align: left;
   height: 40px;
   position: absolute;
   top: 50%;
