@@ -126,7 +126,7 @@ body,
   height: 100%;
 }
 body {
-  background: #eee;
+  background: #ffc;
   font: 14px "Helvetica Neue", Helvetica, Arial, sans-serif;
   -webkit-text-size-adjust: 100%;
 }
@@ -177,7 +177,7 @@ body {
   -ms-transition: 0.2s ease-out;
   transition: 0.2s ease-out;
   z-index: 1;
-  background: #eee;
+  background: #ffc;
 }
 .mobile-nav-on #wrap {
   left: 280px;
